@@ -34,5 +34,6 @@ echo "minishift start faild."
 fi
 sleep 1m
 eval $(/opt/minishift/minishift docker-env) 
-
+# 如果使用oc去建立项目，使用下面命令；使用浏览器可以不装
+eval $(minishift oc-env)
 ```
