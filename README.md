@@ -3,9 +3,9 @@
 ### 关于Minishift
 
 1.Minishift API：https://docs.okd.io/latest/minishift/index.html
+2.Minishift下载地址：https://github.com/minishift/minishift/releases
 
-
-2.Linux开机自动运行Minishift脚本。'/etc/profile.d/minishift.sh'
+3.Linux开机自动运行Minishift脚本。'/etc/profile.d/minishift.sh'
 ```
 # !/bin/bash
 
