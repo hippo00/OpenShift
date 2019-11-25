@@ -8,7 +8,10 @@
 2.Linux开机自动运行Minishift脚本。'.sh'
 ```
 # !/bin/bash
+
+# 当提示限制速率时，export GitHub ssh密钥。
 export MINISHIFT_GITHUB_API_TOKEN="7769e43402861e7d7490692451591aed68ce9300"
+
 echo "start run!"
 systemctl start libvirtd
 if [ $? -eq 0 ];then
