@@ -29,6 +29,6 @@ else
 echo "minishift start faild."
 fi
 sleep 1m
-eval $(/opt/minishift/minishift docker-env)                                    22,1         顶端
+eval $(/opt/minishift/minishift docker-env) 
 
 ```
