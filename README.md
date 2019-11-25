@@ -2,7 +2,7 @@
 
 ### 关于Minishift
 
-1.MinishiftAPI：https://docs.okd.io/latest/minishift/index.html
+1.Minishift API：https://docs.okd.io/latest/minishift/index.html
 
 
 2.Linux开机自动运行Minishift脚本。'/etc/profile.d/minishift.sh'
