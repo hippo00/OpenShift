@@ -5,7 +5,7 @@
 1.官方API地址：https://docs.okd.io/latest/minishift/index.html
 
 
-2.Linux开机自动运行Minishift脚本。'.sh'
+2.Linux开机自动运行Minishift脚本。'/etc/profile.d/minishift.sh'
 ```
 # !/bin/bash
 
