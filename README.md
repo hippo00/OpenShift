@@ -1,4 +1,4 @@
-# 此OpenShift基于开源版本Minishift在redhat linux上搭建.
+基于开源版本Minishift在redhat linux上搭建.
 
 ### 关于Minishift
 
